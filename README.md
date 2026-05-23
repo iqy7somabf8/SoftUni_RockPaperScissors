@@ -5,7 +5,16 @@ A repo for the assignment to create an RPS game using python.
 
 ## Usage
 
-Either clone the repo by doing: ```git clone https://github.com/iqy7somabf8/SoftUni_RockPaperScissors <foldername>``` or just download the `RPS.py` file.
+<ins>**Resolving Dependencies:**</ins>
+``` 
+pip install colorama
+```
+
+<ins>**Cloning the repo:**</ins>
+```bash
+git clone https://github.com/iqy7somabf8/SoftUni_RockPaperScissors <foldername>
+```
+Or download the `RPS.py` file.
 
 ---
 
